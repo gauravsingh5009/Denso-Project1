@@ -172,7 +172,7 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .wrap-10 ul li {font-size: 12px;}
 
 .wrap-1 .btnmob{display: block; float: right;}
-.wrap-2 .collapse {display: block; position: absolute; left: 0; right: 0; top: 0; background: #222b3c; z-index: 11;}
+.wrap-2 .collapse {display: none; position: absolute; left: 0; right: 0; top: 0; background: #222b3c; z-index: 11;}
 .wrap-2 nav ul{flex-flow: column; float: right;}
 .wrap-2 nav a{padding: 20px 0px;}
 }
