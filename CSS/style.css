@@ -105,15 +105,17 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .wrap-6 .btn{display: inline-block;width: 148px; height: 42px; background: #222b3c; margin: 50px 0 110px 0;}
 
 .wrap-7{background: url(../Image/bg2.png) no-repeat center/cover,linear-gradient( #32a86d, #18c16c); padding: 85px 0 160px 0; position: relative;}
-.wrap-7 h2{color: #fff; padding-bottom: 115px;}
-.wrap-7 .testimonial{background: #fff; padding: 0 0 30px 0;}
+.wrap-7 h2{color: #fff; padding-bottom: 115px; text-align: center;}
+.wrap-7 .testimonial{background: #fff; padding: 0 6px 30px 0;}
 .wrap-7 img{margin: 15px;float: left;}
-.wrap-7 h3{font-size: 24px; color: #13824e;; float: left; padding: 45px 10px 0 0;}
+.wrap-7 h3{font-size: 24px; color: #3ab27a; float: left; padding: 45px 10px 0 0;}
 .wrap-7 .clear{clear: both;}
 .wrap-7 p{font-size: 17px; padding-left: 15px;}
 .wrap-7 .icon{position: absolute; width: 60px; height: 60px; border: none;font-size: 20px; top: 50%;}
 .wrap-7 .nexts{left: 0; background: #222b3c; color: #fff;}
 .wrap-7 .prevs{right: 0; background: #fff; color: #000;}
+
+
 
 .wrap-8{padding: 120px 0;}
 .wrap-8 input{width: 100%; height: 35px; margin-top: 35px; color: #363636; border: none; border-bottom: 1px solid #003471; outline: none;}
@@ -144,7 +146,7 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .banner form{margin-right: 50px;}
 .wrap-4 h3 {font-size: 15px;}
 .wrap-6 h3 {font-size: 14px;}
-.wrap-7 .icon{top: 80%;}
+.wrap-7 .icon{top: 85%;}
 .wrap-7 .nexts{left: 40%;}
 .wrap-7 .prevs {right: 40%;}
 .wrap-5 {background: url(../Image/flight-img.png) no-repeat center/cover,linear-gradient(#f7f6f6, #f7f6f6) ;}
@@ -170,7 +172,6 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .wrap-4 .Services{flex-flow: column wrap;}
 .wrap-10 h3 {font-size: 15px;}
 .wrap-10 ul li {font-size: 12px;}
-
 .wrap-1 .btnmob{display: block; float: right;}
 .wrap-2 .collapse {display: none; position: absolute; left: 0; right: 0; top: 0; background: #222b3c; z-index: 11;}
 .wrap-2 nav ul{flex-flow: column; float: right;}
@@ -194,7 +195,7 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .vl{border-left: 0; height: 10px;}
 .wrap-9 label{font-size: 14px;}
 .wrap-9 a{font-size: 14px;}
-.wrap-7 h3{padding: 0 0 10px 10px;}
+.wrap-7 h3{padding: 35px 0 0px 10px;}
 .wrap-7 .prevs {right: 36%;}
 .wrap-7 .nexts {left: 36%;}
 .wrap-6 h3 {font-size: 11px;}
@@ -220,13 +221,10 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .banner form {margin: 30px 45px 0 0 ;}
 .banner form h3 {font-size: 19px;}
 h2 {font-size: 25px;}
-.wrap-7 h3 {font-size: 20px; padding-top: 45px;}
-.wrap-7 p {font-size: 13px;}
 .wrap-6 .dates {width: 60px; height: 60px;bottom: -12%;}
+.wrap-7 h3 {padding-top: 45px;}
 .wrap-7 .nexts {left: 30%;}
 .wrap-7 .prevs {right: 30%;}
-.wrap-7 .testimonial{background: #fff; padding: 0 0 30px 0; margin-top: 1rem;}
-.wrap-7 .moves{margin-top: 1rem;}
 .wrap-9 label{font-size: 9px;}
 .wrap-9 a{font-size: 9px;}
 .vl{border-left: 0; height: 10px;}
@@ -241,14 +239,10 @@ h2 {font-size: 25px;}
 .next {width: 45px; height: 45px;}
 .prev {width: 45px; height: 45px;}
 .banner form {padding: 16px 16px;}
-.wrap-7 h3 {font-size: 16px;}
-.wrap-7 p {font-size: 10px;}
 h2 {font-size: 20px;}
 .wrap-6 h3 {font-size: 9px;}
 .wrap-6 p {font-size: 12px;}
 .wrap-6 .dates {bottom: -50%; width: 55px; height: 55px;}
-.wrap-7 .nexts {left: 20%;}
-.wrap-7 .prevs {right: 20%;}
 .wrap-9 label{font-size: 6px;}
 .wrap-9 a{font-size: 6px;}
 .wrap-10 h3 {font-size: 12px;}
