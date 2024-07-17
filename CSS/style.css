@@ -44,7 +44,7 @@ body{
 .align-center{align-items: center;}
 
 /* Custom CSS */
-.wrap-1{background: url("../Image/bg-plane.png") no-repeat center/cover,linear-gradient(#32a86d, #18c16c);}
+.wrap-1{background: url("../Image/bg-plane.webp") no-repeat center/cover,linear-gradient(#32a86d, #18c16c);}
 header{background: var(--green); color: #fff; padding: 45px 0 30px; opacity: 0.85;}
 .wrap-1 h1{font-family: var(--pf); font-size: 30px; color: #f7f6f6; margin-left: 10px;}
 .wrap-1 label{font: 17px var(--pf);}
@@ -87,7 +87,7 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .wrap-4 h3{font-size: 17px; color: #494949; padding-top: 25px; text-align: center; padding-bottom: 90px;}  
 .wrap-4 .btn{width: 190px; height: 50px; background: #222b3c;}
 
-.wrap-5 {background: url(../Image/flight-img.png) no-repeat right center,linear-gradient(#f7f6f6, #f7f6f6) ;}
+.wrap-5 {background: url(../Image/flight-img.webp) no-repeat right center,linear-gradient(#f7f6f6, #f7f6f6) ;}
 .wrap-5 h2{text-align: left; padding: 70px 0 44px 0;}
 .wrap-5 p{font-size: 17px; color: #727272; line-height: 28px;}
 .wrap-5 .btn{width: 190px; height: 50px; background: #222b3c; margin: 40px 0 60px 0; }
@@ -104,7 +104,7 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .textbg:hover{background: #fff; }
 .wrap-6 .btn{display: inline-block;width: 148px; height: 42px; background: #222b3c; margin: 50px 0 110px 0;}
 
-.wrap-7{background: url(../Image/bg2.png) no-repeat center/cover,linear-gradient( #32a86d, #18c16c); padding: 85px 0 160px 0; position: relative;}
+.wrap-7{background: url(../Image/bg2.webp) no-repeat center/cover,linear-gradient( #32a86d, #18c16c); padding: 85px 0 160px 0; position: relative;}
 .wrap-7 h2{color: #fff; padding-bottom: 115px; text-align: center;}
 .wrap-7 .testimonial{background: #fff; padding: 0 6px 30px 0;}
 .wrap-7 img{margin: 15px;float: left;}
@@ -149,7 +149,7 @@ h2{font-size: 40px; text-align: center; font-weight: 300; padding-bottom: 50px;}
 .wrap-7 .icon{top: 85%;}
 .wrap-7 .nexts{left: 40%;}
 .wrap-7 .prevs {right: 40%;}
-.wrap-5 {background: url(../Image/flight-img.png) no-repeat center/cover,linear-gradient(#f7f6f6, #f7f6f6) ;}
+.wrap-5 {background: url(../Image/flight-img.webp) no-repeat center/cover,linear-gradient(#f7f6f6, #f7f6f6) ;}
 
 }
 
